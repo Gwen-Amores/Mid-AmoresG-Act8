@@ -1,19 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Mid-AmoresG-Act8</title>
-  <style>
-    /* Blade Runner 2049 color scheme */
-    body {
-      background-color: #0d0b1e;
-      font-family: "Segoe UI", Arial, sans-serif;
-      text-align: center;
-      color: #e0d6f5;
-      margin: 0;
-      padding: 20px 0 60px;
-    }
-
     .header {
       background: linear-gradient(90deg, #1a1c4b, #4e1b56);
       color: #e0d6f5;
